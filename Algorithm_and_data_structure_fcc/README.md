@@ -1,5 +1,3 @@
-# Algorithm_and_data_structure_fcc
-
 https://www.youtube.com/watch?v=8hly31xKli0&amp;t=6074s
 
 1. algorithm 是解决一个特定问题的具体步骤，主要有四个特点
